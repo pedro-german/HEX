@@ -182,6 +182,8 @@ The proposed solution will put at the command of a space crew a crop that meets 
 
 ## **Conclusion**
 
+In this work, a decentralized and multi-attachable cultivation system was designed capable of producing several species of vegetables in a given period of time, in order to feed a population of 4-6 people who would go aboard a spacecraft, suspended in space for several months, with the additional ability to provide food once landed on Mars. The system has several units that are capable of being assembled, and between them energy is distributed thanks to a simple coupling that ends up electrically connecting each one with a main storage unit, which consists of a photovoltaic panel that would supply electrical energy from the sun. , once perched on Mars. This design allows an unprecedented use of space inside the ship, thus being able to provide the crew with sufficient resources, while those consumed would be in production. In general, this design and its capabilities would provide future missions with a solution to the problem of food production and consumption along the way. 
+
 ## **Future Work**
 
 - **Cultured Meat**: Not only crops could be grown in a restrained environment such as space, we believe that lab-grown meat will sum up to the food production ecosystem in space in the following years. In-vitro meat production is not a new technology on Earth, and even in September of 2019 the first cultured meat was cultivated in space by *Aleph Farms* in partnership with *Bioprinting Solutions*. This experiment was conducted by the cosmonaut Oleg Skripochka  at the International Space Station (ISS). <sup>[X](https://www.aleph-farms.com/aleph-zero), [X](https://www.space.com/meat-grown-in-space-station-bioprinter-first.html)</sup>. Recently, the European Space Agency (ESA) publish that they are seeking proposals to investigate the application of cellular agriculture to produce cultured meat during future long-term space mission. <sup>[X](https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/ESA_investigates_cultured_meat_as_novel_space_food)</sup>
@@ -198,42 +200,17 @@ The proposed solution will put at the command of a space crew a crop that meets 
 
 ## **References**
 
-- [1] 
+- [1] [Space Food | NASA](https://www.nasa.gov/content/space-food-systems)
+- [2] [Growing Plants in Space | NASA](https://www.nasa.gov/content/growing-plants-in-space)
+- [3] [Veg-03 Plant Pillows Readied at Kennedy Space Center for Trip to Space Station – Kennedy Space Center (nasa.gov)](https://blogs.nasa.gov/kennedy/2016/04/08/veg-03-plant-pillows-readied-at-kennedy-space-center-for-trip-to-space-station/)
+- [4] [Veggie Fact Sheet (nasa.gov)](https://www.nasa.gov/sites/default/files/atoms/files/veggie_fact_sheet_508.pdf)
+- [5] [Agriculture for Space: People and Places Paving the Way (degruyter.com)](https://www.degruyter.com/document/doi/10.1515/opag-2017-0002/html)
+- [6] [(PDF) Plants for human life support in space: From Myers to Mars (researchgate.net)](https://www.researchgate.net/publication/228484167_Plants_for_human_life_support_in_space_From_Myers_to_Mars)
+- [7] [Giving Roots and Shoots Their Space: The Advanced Plant Habitat | NASA](https://www.nasa.gov/mission_pages/station/research/Giving_Roots_and_Shoots_Their_Space_APH)
+- [8] [Astronauts Harvest Radish Crop on International Space Station | NASA](https://www.nasa.gov/feature/astronauts-harvest-radish-crop-on-international-space-station)
+- [9] [MEAT FOR SPACE — (aleph-farms.com)](https://www.aleph-farms.com/aleph-zero)
+- [10] [Meat Grown in Space for the First Time Ever | Space](https://www.space.com/meat-grown-in-space-station-bioprinter-first.html)
+- [11] [ESA - ESA investigates cultured meat as novel space food](https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/ESA_investigates_cultured_meat_as_novel_space_food)
+- [12] [Space Oven | Zero G Kitchen](https://www.zerogk.space/space-oven)
 
----
 
-You can use the [editor on GitHub](https://github.com/chris-roman/HEX/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chris-roman/HEX/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
